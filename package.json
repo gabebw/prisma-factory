@@ -1,5 +1,6 @@
 {
   "name": "@prisma-factory/monorepo",
+  "version": "1.0.0",
   "private": true,
   "engines": {
     "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
